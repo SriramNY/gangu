@@ -1,2 +1,2 @@
 # gangu
-Stock Screener Script to teach investing for my 7 year old
+Miscellaneous scripts and notebooks to help teach my son the fundamentals of programming and investing.
